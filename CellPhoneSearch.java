@@ -1,6 +1,5 @@
 /*Assignment 5 (Part A & b)
 Nahian Pathan (27105827) 
-Moaeez Zahid (40016676)
  */
 
 import java.util.Scanner;
